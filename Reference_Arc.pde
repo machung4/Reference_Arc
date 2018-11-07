@@ -2,6 +2,7 @@ void setup () {
 size(500,500);
 stroke(255,0,0);
 fill(255,0,0);
+
 }
 
 int value = #00F6FC;
